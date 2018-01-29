@@ -4,7 +4,7 @@
 @section('content')
 
     <div class="alert alert-danger" role="alert" style="padding: 20px; margin-top: 20px">
-        No TodoList
+        Empty TodoList
     </div>
 
     <div>
